@@ -1,1 +1,3 @@
-adhha
+name,age,job,city
+Bob,25,engineer,ban
+Sam,30,plumber,hyd
